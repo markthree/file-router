@@ -1,6 +1,6 @@
-# fileRouter
+# metas
 
-deno Eco's File Routing Generator | deno 生态的文件路由生成器
+生成模块信息
 
 <br />
 
